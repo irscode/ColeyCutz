@@ -10,5 +10,11 @@
 <body>
     <h4>Coley Cutz</h4>
     <p>The best Barber Shop in South Mississippi.</p>
+    
+     <ul>
+        <li>Adult Cutz $20</li>
+        <li>Line $8</li>
+        <li>Kidz Cutz $10 </li>
+    </ul>
 </body>
 </html>
