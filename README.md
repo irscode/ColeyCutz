@@ -9,6 +9,7 @@
 </head>
 <body>
     <h4>Coley Cutz</h4>
+    <h2>Picayune, MS</h2>
     <p>The best Barber Shop in South Mississippi.</p>
     
      <ul>
